@@ -1,0 +1,98 @@
+MCDM Arena: End-User Licence Agreement
+
+Version 1, 19 November 2026
+
+This agreement is between you and Tin Šolić ("the author"), the owner of
+MCDM Arena ("the App"). By installing or using the App you accept it. If you do
+not accept it, do not install or use the App.
+
+1. Licence. The author grants you a personal, non-exclusive, non-transferable,
+   revocable licence to install and use the App on computers you control, for
+   your own personal, study, research or internal use. All rights not expressly
+   granted here stay with the author. The App is licensed, not sold.
+
+2. Ownership. The App, its code, design, methods as implemented, texts, images
+   and documentation are the author's property and are protected by copyright
+   and other laws. Using the App gives you no right to its source code, name or
+   marks.
+
+3. What you may not do. Unless the author agrees in writing, you may not:
+   a) copy the App, except one backup copy;
+   b) distribute, publish, sell, rent, lend, host or sublicense the App, or
+      offer it as a service to others;
+   c) reverse engineer, decompile, disassemble or otherwise try to obtain its
+      source code, except as far as the law expressly allows this despite this
+      term;
+   d) modify the App, or make products based on it;
+   e) remove, change or work around any notice, limit, licence check or
+      protection in the App;
+   f) use the App, its outputs or its behaviour to build or train a competing
+      product;
+   g) use the App in breach of any law, including export-control and sanctions
+      law (see 9).
+
+4. Your data. Your games, bots, results and settings are stored on your own
+   computer and remain yours. You may export and share your own data, for
+   example bot files and reports, subject to the rights of others.
+
+5. Team service. Team features are optional and need an account. If you sign
+   in, the service stores your email address and what you choose to share
+   (bots, results, game summaries), and the members of that team can see and
+   download it. Share only what you are allowed to share. How personal data is
+   handled is described in the Privacy Notice (PRIVACY.md, shipped with the App
+   and on the download page). The author may change, limit, suspend or end the
+   team service, or an account that breaks this agreement, at any time.
+
+6. StarCraft II. StarCraft II is a product of Blizzard Entertainment, Inc. and
+   is governed by Blizzard's own terms. The App is not made, endorsed or
+   supported by Blizzard. To use the App with StarCraft II you need your own
+   copy of the game and must follow Blizzard's terms, including those for maps.
+
+7. Third-party software. The App contains open-source components, each under
+   its own licence (listed in THIRD-PARTY-NOTICES.txt). Those licences apply to
+   those components; nothing in this agreement limits your rights under them.
+
+8. Pre-release software. Versions before 1.0 are early releases: features may
+   change or be removed, and data formats may change between versions. Keep
+   backups of data that matters to you.
+
+9. Export control. The App's decision and learning methods may be subject to
+   export-control rules, including the EU dual-use regulation (Regulation (EU)
+   2021/821) and sanctions. You are responsible for complying with them when
+   you use, move or share the App or its outputs.
+
+10. Feedback. If you send ideas or suggestions about the App, the author may use
+    them freely, without obligation to you.
+
+11. Updates. The App may tell you that a new version exists. It never installs
+    anything without you. Later versions may come with an updated agreement.
+
+12. No warranty. The App is provided "as is" and "as available", without
+    warranty of any kind, express or implied, including fitness for a
+    particular purpose, accuracy of results and uninterrupted or error-free
+    operation. Results shown by the App are for research and learning and must
+    not be the sole basis for real-world decisions.
+
+13. Limit of liability. As far as the law allows, the author is not liable for
+    any indirect, incidental or consequential loss, or for loss of data,
+    profit, revenue or use, and the author's total liability is limited to the
+    amount you paid for the App (zero if it was free). Nothing in this
+    agreement limits liability for intent, gross negligence, death or personal
+    injury, or any liability that cannot be limited by law, and nothing in it
+    takes away rights you have as a consumer under mandatory law.
+
+14. Ending. This licence ends automatically if you break this agreement. You
+    may end it at any time by uninstalling the App. When it ends you must stop
+    using the App and delete your copies. Sections 2, 3, 9, 12, 13 and 15
+    continue after it ends.
+
+15. Law and disputes. This agreement is governed by the laws of the Republic of
+    Croatia, without regard to its conflict-of-law rules. Disputes belong to
+    the competent court in Split, Croatia, unless mandatory consumer law gives
+    you the right to sue in your own country.
+
+16. Whole agreement. This agreement, the Privacy Notice and the third-party
+    licences are the whole agreement about the App. If a part is found
+    unenforceable, the rest stays in force.
+
+Copyright (c) 2026 Tin Šolić. All rights reserved.

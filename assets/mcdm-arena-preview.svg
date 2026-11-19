@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="MCDM Arena">
+<rect width="1280" height="640" fill="#0d1520"/>
+<text x="96" y="112" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="20" letter-spacing="3"><tspan font-weight="600" fill="#f2b84b">FILE: MA-0.4</tspan><tspan dx="22" fill="#6f8399">TECHNICAL BRIEFING</tspan></text>
+<line x1="96" y1="130" x2="1184" y2="130" stroke="#24364a" stroke-width="1"/>
+<line x1="96" y1="130" x2="156" y2="130" stroke="#f2b84b" stroke-width="3"/>
+<text x="92" y="262" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="132" font-weight="700" letter-spacing="1" textLength="680" lengthAdjust="spacingAndGlyphs" fill="#dde6ef">MCDM ARENA</text>
+<text x="96" y="322" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="34" textLength="570" lengthAdjust="spacingAndGlyphs" fill="#a9b8c8">Eleven decision methods and learning bots,</text>
+<text x="96" y="364" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="34" textLength="640" lengthAdjust="spacingAndGlyphs" fill="#a9b8c8">tested in a strategy simulator and in StarCraft II.</text>
+<text x="96" y="438" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="16" letter-spacing="2.5" fill="#6f8399">METHODS UNDER TEST</text>
+<line x1="96" y1="452" x2="780" y2="452" stroke="#24364a" stroke-width="1"/>
+<text x="96" y="488" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">SAW</text>
+<text x="268" y="488" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">TOPSIS</text>
+<text x="440" y="488" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">VIKOR</text>
+<text x="612" y="488" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">WPM</text>
+<text x="96" y="522" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">WASPAS</text>
+<text x="268" y="522" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">COPRAS</text>
+<text x="440" y="522" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">EDAS</text>
+<text x="612" y="522" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">MOORA</text>
+<text x="96" y="556" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">PROMETHEE II</text>
+<text x="268" y="556" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">ARAS</text>
+<text x="440" y="556" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="22" font-weight="600" fill="#dde6ef">Consensus (Borda)</text>
+<text x="96" y="608" font-family="'Barlow Condensed', 'Bahnschrift SemiCondensed', Bahnschrift, 'Arial Narrow', 'Avenir Next Condensed', 'Roboto Condensed', 'sans-serif-condensed', sans-serif" font-size="20" fill="#6f8399">Windows 10 and 11   /   github.com/dev1ce2004/mcdm-arena</text>
+<rect x="852" y="176" width="336" height="336" fill="#131e2b"/>
+<line x1="852" y1="176" x2="852" y2="512" stroke="#24364a" stroke-width="1"/>
+<line x1="880" y1="176" x2="880" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="908" y1="176" x2="908" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="936" y1="176" x2="936" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="964" y1="176" x2="964" y2="512" stroke="#24364a" stroke-width="1"/>
+<line x1="992" y1="176" x2="992" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="1020" y1="176" x2="1020" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="1048" y1="176" x2="1048" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="1076" y1="176" x2="1076" y2="512" stroke="#24364a" stroke-width="1"/>
+<line x1="1104" y1="176" x2="1104" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="1132" y1="176" x2="1132" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="1160" y1="176" x2="1160" y2="512" stroke="#1a2737" stroke-width="1"/>
+<line x1="1188" y1="176" x2="1188" y2="512" stroke="#24364a" stroke-width="1"/>
+<line x1="852" y1="176" x2="1188" y2="176" stroke="#24364a" stroke-width="1"/>
+<line x1="852" y1="204" x2="1188" y2="204" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="232" x2="1188" y2="232" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="260" x2="1188" y2="260" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="288" x2="1188" y2="288" stroke="#24364a" stroke-width="1"/>
+<line x1="852" y1="316" x2="1188" y2="316" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="344" x2="1188" y2="344" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="372" x2="1188" y2="372" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="400" x2="1188" y2="400" stroke="#24364a" stroke-width="1"/>
+<line x1="852" y1="428" x2="1188" y2="428" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="456" x2="1188" y2="456" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="484" x2="1188" y2="484" stroke="#1a2737" stroke-width="1"/>
+<line x1="852" y1="512" x2="1188" y2="512" stroke="#24364a" stroke-width="1"/>
+<rect x="852" y="176" width="336" height="336" fill="none" stroke="#2c4058" stroke-width="1.5"/>
+<g transform="translate(964 288) scale(0.54688)">
+  <rect x="0" y="0" width="256" height="256" rx="56" fill="#0d1520"/>
+  <rect x="6" y="6" width="244" height="244" rx="50" fill="none" stroke="#223449" stroke-width="4"/>
+  <path d="M74 66 C34 62 18 118 30 166 C36 190 58 196 70 176 C84 150 90 110 100 84 C96 72 86 66 74 66 Z" fill="#0a0a0c" stroke="#f4f6f8" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M182 66 C222 62 238 118 226 166 C220 190 198 196 186 176 C172 150 166 110 156 84 C160 72 170 66 182 66 Z" fill="#0a0a0c" stroke="#f4f6f8" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M128 52 C170 52 194 84 194 126 C194 170 168 210 128 210 C88 210 62 170 62 126 C62 84 86 52 128 52 Z" fill="#f4f6f8"/>
+  <ellipse cx="128" cy="168" rx="38" ry="30" fill="#ffffff"/>
+  <circle cx="156" cy="88" r="13" fill="#0a0a0c"/>
+  <circle cx="98" cy="98" r="7" fill="#0a0a0c"/>
+  <circle cx="92" cy="182" r="8" fill="#0a0a0c"/>
+  <circle cx="170" cy="150" r="5" fill="#0a0a0c"/>
+  <circle cx="106" cy="126" r="8.5" fill="#0a0a0c"/>
+  <circle cx="150" cy="126" r="8.5" fill="#0a0a0c"/>
+  <circle cx="109" cy="123" r="2.5" fill="#ffffff"/>
+  <circle cx="153" cy="123" r="2.5" fill="#ffffff"/>
+  <path d="M112 154 C112 146 144 146 144 154 C144 164 134 170 128 170 C122 170 112 164 112 154 Z" fill="#0a0a0c"/>
+  <path d="M96 206 C110 214 146 214 160 206" fill="none" stroke="#f2b84b" stroke-width="9" stroke-linecap="round"/>
+</g>
+</svg>
