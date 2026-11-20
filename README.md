@@ -4,12 +4,11 @@
   <img alt="MCDM Arena: eleven decision methods and learning bots, tested in a strategy simulator and in StarCraft II" src="assets/mcdm-arena-banner-dark.svg" width="100%">
 </picture>
 
-<p>
-  <a href="../../releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/dev1ce2004/mcdm-arena?style=flat-square&label=release&labelColor=131e2b&color=f2b84b"></a>
-  <img alt="Windows 10 and 11, 64-bit" src="https://img.shields.io/badge/Windows-10%20%7C%2011%2C%2064--bit-dde6ef?style=flat-square&labelColor=131e2b">
-  <a href="EULA.txt"><img alt="Licence: proprietary" src="https://img.shields.io/badge/licence-proprietary-dde6ef?style=flat-square&labelColor=131e2b"></a>
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/dev1ce2004/mcdm-arena/total?style=flat-square&label=downloads&labelColor=131e2b&color=dde6ef">
-  <img alt="Page views" src="https://visitor-badge.laobi.icu/badge?page_id=dev1ce2004.mcdm-arena&left_text=views&left_color=%23131e2b&right_color=%23dde6ef">
+<p align="center">
+  <a href="../../releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/dev1ce2004/mcdm-arena?style=for-the-badge&logo=github&logoColor=f2b84b&label=release&labelColor=0d1520&color=f2b84b"></a>
+  <img alt="Windows 10 and 11, 64-bit" src="https://img.shields.io/badge/windows-10%20%C2%B7%2011%20%C2%B7%2064--bit-131e2b?style=for-the-badge&logo=windows&logoColor=dde6ef&labelColor=0d1520">
+  <a href="EULA.txt"><img alt="Licence: proprietary" src="https://img.shields.io/badge/licence-proprietary-131e2b?style=for-the-badge&logo=readthedocs&logoColor=dde6ef&labelColor=0d1520"></a>
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/dev1ce2004/mcdm-arena/total?style=for-the-badge&logo=icloud&logoColor=dde6ef&label=downloads&labelColor=0d1520&color=131e2b">
 </p>
 
 **[Download the latest version](../../releases/latest)** &nbsp;|&nbsp; [Release notes](../../releases) &nbsp;|&nbsp; [Licence](#08-licence) &nbsp;|&nbsp; [Privacy](PRIVACY.md)
@@ -127,3 +126,5 @@ Use of MCDM Arena is subject to the [End-User Licence Agreement (EULA)](EULA.txt
 StarCraft II is a trademark of Blizzard Entertainment, Inc. MCDM Arena is an independent project and is not affiliated with, endorsed by, or sponsored by Blizzard Entertainment.
 
 Questions and team requests: mcdm.arena@gmail.com
+
+<p align="center"><img alt="Page views" src="https://visitor-badge.laobi.icu/badge?page_id=dev1ce2004.mcdm-arena&left_text=visitors&left_color=%230d1520&right_color=%23131e2b"></p>
